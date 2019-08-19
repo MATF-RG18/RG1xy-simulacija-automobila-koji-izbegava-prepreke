@@ -1,0 +1,4 @@
+REP3:
+    -promenjive koje su bile stelovane sada postaju globalne
+    -ubacujemo kretanje auta u levo i desno
+    -animacija kretanja tako sto put ide ka autu
