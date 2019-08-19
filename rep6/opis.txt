@@ -1,0 +1,4 @@
+REP 6:
+    -ubacena je jednostavna kolizija koja treba da se unapredi
+    -efekat je ubrzavanje auta
+    -vizuelno nema previse promena, kada se program pokrene efekat kolizije je ubrzavanje kretanja
