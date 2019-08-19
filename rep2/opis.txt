@@ -1,0 +1,5 @@
+REP2:
+    -postavljanje puta po kome ce prepreke da nadolaze
+    -postavljanje kurzica(koji predstavlja auto(kasnije ce biti nacrtan autic)) na centru puta
+    
+    
