@@ -1,0 +1,5 @@
+Rep1:
+    -inicijalizacija projekta(promenjiva,callB fje,postavljanje osnovnih struktura..)
+    -iscrtavanje kord. sistema
+    -postavljanje tacke gledista
+    
