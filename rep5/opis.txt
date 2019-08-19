@@ -1,0 +1,3 @@
+REP 5:
+    -ubacivanje prepreka koje nadolaze (kasnije ce biti ulepsane :D)
+    -u narednom reportu pravimo koliziju sa preprekama
