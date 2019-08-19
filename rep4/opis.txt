@@ -1,0 +1,5 @@
+REP4:
+    -vizuelni dodatak da se tacka gledista pomera sa kretanjem auta
+    -dodavanjem druge ravni koja nailazi iza prve kako bi vizuelno bilo lepse animirano kretanje
+    -sitne promene kod promenjivih i konstrukcija globalnih promenjivih za neke koje su ranije  
+    bile nasumicno ubacene
