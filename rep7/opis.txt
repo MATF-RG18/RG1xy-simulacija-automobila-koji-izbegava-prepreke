@@ -1,0 +1,8 @@
+REP 7:
+    -ubaceno je okruzenje(kugla)
+    -ubacen je skor i trajanje nitra
+    -igra organizovana kroz 3 faze u 1. se generise manji broj prepreka, u 2 .malo vise u 3. najvise
+    -ubacene su levi i desni ivicnjak
+    -nitro malo redizajniran
+    -kada se pokupi novcic ili nitro nestaju
+    -ubacene dodatne fje za regulisanje svih gore navedenih stavki
