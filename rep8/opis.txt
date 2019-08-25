@@ -1,0 +1,26 @@
+REP 9:
+    -dodato je osvetljenje i materijali(ivicnjacima su dodati mterijali da podsecaju na travnatu podlogu)
+    -sredjeni su detalji u vezi kretanja,realnije kretanje,bolje podeseni parametri nitro ubrzanja  i kolizije
+    sa preprekama
+    -nitro modelovan da se rotira na putu
+    -novcicima postavljen materijal da nalikuju na zlato
+    -ubacen je high-score koji se ucitava iz datoteke i azurira svaki put kada se rekord u igri obori(HighScore.txt)
+    -modelovan je autic,kada se pokupi nitro menja boju auto kao i okruzenje i smrtonosna prepreka
+    
+OPIS IGRE(DODATAK):
+    -igra organizovana u 3 faze
+    -u I fazi generise se manji broj prepreka
+    -u II fazi generise se vise prepreka
+    -u III fazi najvise prepreka
+    -nitro daje ubrzanje
+    -kada se pokupi nitro svaki poen vredi vise nego inace
+    -nitro moze da se pokupi vise puta , time povecavamo njegovo trajanje kao i ubrzanje autica
+    -siva prepreka predstavlja kamen i ona je smrtonosna(kada se pokupi nitro menja boju u svetlo crvenu)
+    -igra nema kraja, sto veci Score to bolje :)
+
+KOMANDE:
+    's' -> zapocinjemo igru
+    'a' -> kretanje u levo
+    'd' -> kretanje u desno
+    'x' -> stopira tajmer
+    'esc' -> gasimo igru
